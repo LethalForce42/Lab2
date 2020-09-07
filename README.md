@@ -11,3 +11,7 @@ by using a for loop to call the artists array until the array has reached the en
 The output file thus contains each artists name that appears on the csv file and 
 how many times they appear on the list while making sure that an artist who 
 appears multiple times is not given a separate line of text.
+
+***You need to run the Lab2.java file which is located in the src folder. Make sure
+when you clone repository that the SpotifyCharts csv file is located in the Lab 2 
+folder so that the code can read it without throwing a Nullpointer error.***
